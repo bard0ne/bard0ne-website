@@ -1,4 +1,4 @@
-//window.alert("WORK IN PROGRESS")
+window.alert("WORK IN PROGRESS")
 
 function myfunction(){
     let text = document.getElementById('demo').innerHTML;
