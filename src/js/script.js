@@ -1,6 +1,6 @@
-window.alert("WORK IN PROGRESS")
+alert("WORK IN PROGRESS")
 
-function toenails(){
+function buttonpress(){
     let text = document.getElementById('demo').innerHTML;
     document.getElementById('demo').innerHTML = text.replace('suck', 'are beautiful');
 }
